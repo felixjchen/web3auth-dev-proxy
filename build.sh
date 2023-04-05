@@ -1,0 +1,1 @@
+docker build . --tag=felixjchen/web3auth

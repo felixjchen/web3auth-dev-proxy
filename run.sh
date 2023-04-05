@@ -1,0 +1,1 @@
+docker run -dp 3000:80 felixjchen/web3auth 
