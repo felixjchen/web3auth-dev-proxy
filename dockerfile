@@ -1,3 +1,3 @@
-FROM nginx:1.23.4
-
+FROM ubuntu/nginx
+COPY nginx.conf /etc/nginx/nginx.conf
 EXPOSE 80
